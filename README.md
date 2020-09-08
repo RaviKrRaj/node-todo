@@ -1,2 +1,2 @@
-# node-todo
-A basic to-do backend app
+# Node JS Based basic ToDo Application
+
